@@ -1,0 +1,6 @@
+C:\Users\Mico_Ultrabook\Documents\Visual Studio 2013\Projects\C#\NStuSys\NStuSys\bin\NStuSys.dll.config
+C:\Users\Mico_Ultrabook\Documents\Visual Studio 2013\Projects\C#\NStuSys\NStuSys\bin\NStuSys.dll
+C:\Users\Mico_Ultrabook\Documents\Visual Studio 2013\Projects\C#\NStuSys\NStuSys\bin\NStuSys.pdb
+C:\Users\Mico_Ultrabook\Documents\Visual Studio 2013\Projects\C#\NStuSys\NStuSys\obj\Debug\NStuSys.csprojResolveAssemblyReference.cache
+C:\Users\Mico_Ultrabook\Documents\Visual Studio 2013\Projects\C#\NStuSys\NStuSys\obj\Debug\NStuSys.dll
+C:\Users\Mico_Ultrabook\Documents\Visual Studio 2013\Projects\C#\NStuSys\NStuSys\obj\Debug\NStuSys.pdb
