@@ -33,6 +33,7 @@ namespace NStuSys
             DataTable dt;
             DataRow dr;
 
+            // BEGIN - image render code
             if (Request.QueryString["stu"] != null && Request.QueryString["size"]!=null)
             {
                 int stu_id = Convert.ToInt32(Request.QueryString["stu"]);
@@ -42,7 +43,6 @@ namespace NStuSys
                 dt = dv.ToTable();
                 if (dt.Rows.Count == 1)
                 {
-                   
                     dr = dt.Rows[0];
                     Response.Clear();
                     Response.ContentType = dr["type"].ToString();
@@ -55,6 +55,7 @@ namespace NStuSys
                     Response.End();
                 }
             }
+            // END 
 
             //DataView dv;
             //DataTable dt = new DataTable();
